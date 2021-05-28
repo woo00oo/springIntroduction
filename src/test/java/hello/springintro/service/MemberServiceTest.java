@@ -42,7 +42,7 @@ class MemberServiceTest {
         assertThat(member.getName()).isEqualTo(findMember.getName());
 
     }
-
+    //커밋
     @Test
     void 중복_회원_예외(){
         //given
